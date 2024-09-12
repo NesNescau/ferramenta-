@@ -7,15 +7,18 @@
 </head>
 <body>
     <main>
-    <secction id="container">
+    <section id="container">
     <article class="cartao"></article>
     <div class="cartao_conteudo"></div>
-                <h3>progamação</h3>
-                <div class="cartao__conteudo__pergunta">
-                
+      <h3>progamação</h3>
+          <div class="cartao__conteudo__pergunta">
+          o que é javascript?
+          </div>
+          <div class="cartão__conteudo__resposta">
+            o javascript é uma linguagem de programação
     </main>
     <footer>
-    <p>trabalo de git projeto</p>
+    <p>trabalo de git projeto teste1.0</p>
 </body>
 </html>
 
