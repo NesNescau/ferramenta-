@@ -9,18 +9,10 @@ body{
 
 .cartao {
     margin: 1rem 1rem;
-    background-color: blueviolet
-    height; 20rem;
+    background-color: blueviolet;
+    height; 20 rem;
+    flex-grow: 1;
 }
-
-
-
-
-
-
-
-
-
 
 
 footer{
